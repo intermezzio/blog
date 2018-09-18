@@ -2,4 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Intermezzio's Chess Adventures"
 theme = "BluestNight"
-publishDir = "docs"
+[params.sidebar]
+    order = [
+        "recent"
+    ]
