@@ -2,7 +2,21 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Intermezzio's Chess Adventures"
 theme = "BluestNight"
+[params]
+	post_navigation = true
 [params.sidebar]
     order = [
         "recent"
     ]
+[params.background]
+	src = "images/background-blue.jpg"
+	fit = "cover"
+[params.color]
+	main_background = "#101010c0"
+	alt_background = "#252525c0"
+	accent = "#1034a6ff"
+[params.fonts]
+	header_style = "sans-serif"
+	body_style = "sans-serif"
+	print_header_style = "slab-serif"
+	print_body_style = "sans-serif"
