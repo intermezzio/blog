@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://intermezzio.github.io/blog/"
 languageCode = "en-us"
 title = "Intermezzio's Chess Adventures"
 theme = "BluestNight"
