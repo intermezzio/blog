@@ -18,7 +18,7 @@ Typically, white plays the following moves to hold onto the pawn until black fin
 
 {{< lichess "YioTyZA1/uZXsQ0sh" >}}
 
-However, my opponent played a sideline of this opening, instead continuing with 4. Nc3 Nc6 5. Nh3
+However, my opponent played a sideline of this opening, continuing with 4. Nc3 Nc6 5. Nh3
 
 {{< lichess "RF3iUUfb/ZpxJCz4G" 9 >}}
 
@@ -28,4 +28,4 @@ The answer is to control the d5 square, a square poorly defended by my pieces.  
 
 Although I (as black) knew his plan, I did not know how to stop it.  After some moves like Ngxe5 (to take the pawn back) and Bb4 (to trade off the knight), the white knight still found its way to the d5 square.
 
-Later on in the game, white ended up castling kingside and put pressure on the d4 and d5 squares with tactics along the a4-e8 diagonal.  I (as black) went down a pawn yet had counterplay due to white's weakness on d3.  Later on, I dropped the exchange (which I sometimes do during blitz matches), and the game ended in a win for white.  However, I remember this game most because it was the first (and only) time anyone ever played Nh3 against me in the opening, with the intention of controlling d5.
+Later on in the game, white ended up castling kingside and put pressure on the d4 and d5 squares with tactics along the a4-e8 diagonal.  I (as black) went down a pawn yet had counterplay due to white's weakness on d3.  As it was a fast blitz match, I dropped the exchange and the game eventually ended in a win for white.  However, I remember this game most because it was the first (and only) time anyone ever played Nh3 against me in the opening, with the intention of controlling d5.
