@@ -1,22 +1,36 @@
 baseURL = "https://intermezzio.github.io/blog/"
 languageCode = "en-us"
-title = "Intermezzio's Chess Adventures"
+title = "Chess Thoughts"
 theme = "BluestNight"
 [params]
 	post_navigation = true
+	thumbnail = "intermezzio_logo.png"
 [params.sidebar]
     order = [
-        "recent"
+    	"recent"
     ]
 [params.background]
 	src = "images/background-blue.jpg"
 	fit = "cover"
 [params.color]
-	main_background = "#101010c0"
-	alt_background = "#252525c0"
+	main_background = "#101010d5"
+	alt_background = "#252525d0"
+    main_text = "#e2e2e2"
+    alt_text = "#e2e2e2"
 	accent = "#1034a6ff"
+    accent_text = "#e2e2e2"
 [params.fonts]
 	header_style = "sans-serif"
 	body_style = "sans-serif"
 	print_header_style = "slab-serif"
 	print_body_style = "sans-serif"
+[menu]
+	[[menu.main]]
+		identifier = "about"
+		name = "about"
+		url = "/about/"
+		weight = -90
+	[[menu.main]]
+		name = "posts"
+		url = "/posts/"
+		weight = -100

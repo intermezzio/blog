@@ -6,7 +6,7 @@ draft: false
 
 Hello, my friends!  Today, I'd like to share about an interesting chess game from the PennApps hackathon with you.  The chess tournament was held at the UPenn, and people from the PennApps hackathon as well as the UPenn chess club competed together in one tournament.  It was a blitz tournament, with an 8|0 time control (yes, eight minutes - I'm not sure why), so the moves and ideas from the following game are from memory and not notated.
 
-        			Round 2:  ???? (2200) v intermezzio (1400)
+## Round 2:  ???? (2200) v intermezzio (1400)
 
 The game started out with one of my favorite openings, the Budapest Gambit, with 1. d4 d5 2. c4 e5 3. dxe5 Ng4
 
