@@ -1,7 +1,6 @@
 ---
 title: "PennApps Chess Tournament"
 date: 2018-09-19T18:00:00-00:00
-draft: false
 ---
 
 Hello, my friends!  Today, I'd like to share about an interesting chess game from the PennApps hackathon with you.  The chess tournament was held at the UPenn, and people from the PennApps hackathon as well as the UPenn chess club competed together in one tournament.  It was a blitz tournament, with an 8|0 time control (yes, eight minutes - I'm not sure why), so the moves and ideas from the following game are from memory and not notated.
