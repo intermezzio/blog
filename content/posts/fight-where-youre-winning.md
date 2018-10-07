@@ -3,7 +3,7 @@ title: "Fight Where You're Winning"
 date: 2018-10-03T18:00:00-00:00
 draft: false
 description: |
-	Hello again! Going along with the theme of agressive games, here’s a game I recently finished on chess.com where I made a positional blunder that allowed my opponent to win in a strong, agressive style.
+    Hello again! Going along with the theme of agressive games, here’s a game I recently finished on chess.com where I made a positional blunder that allowed my opponent to win in a strong, agressive style.
 ---
 
 Hello again!  Going along with the theme of agressive games, here's a game I recently finished on chess.com where I made a positional blunder that allowed my opponent to win in a strong, agressive style.
