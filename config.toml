@@ -34,3 +34,5 @@ theme = "BluestNight"
 		name = "posts"
 		url = "/posts/"
 		weight = -100
+
+disqusShortname = "intermezzio"
