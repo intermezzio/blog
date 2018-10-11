@@ -5,6 +5,7 @@ theme = "BluestNight"
 [params]
 	post_navigation = true
 	thumbnail = "intermezzio_logo.png"
+	disqus = "enabled"
 [params.sidebar]
     order = [
     	"recent"
@@ -24,6 +25,7 @@ theme = "BluestNight"
 	body_style = "sans-serif"
 	print_header_style = "slab-serif"
 	print_body_style = "sans-serif"
+
 [menu]
 	[[menu.main]]
 		identifier = "about"
