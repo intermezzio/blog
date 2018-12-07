@@ -1,6 +1,8 @@
 ---
 title: "Pawns On The Attack!"
 date: 2018-12-06T18:00:00-00:00
+description: |
+    Hello again! I’m finally back and ready with another action-packed game for you! I played the following game online, where I used a pawn break on the kingside to attack my opponent’s king.
 ---
 
 Hello again!  I'm finally back and ready with another action-packed game for you!  I played the following game online, where I used a pawn break on the kingside to attack my opponent's king.
