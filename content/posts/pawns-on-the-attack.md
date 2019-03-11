@@ -38,6 +38,6 @@ In just two moves, my opponent resigned.  My e7 pawn is now threatening to promo
 
 But how did black fall so easily?
 
-Black did not lose because he was down a bishop.  However, my pawns were aboe to remove my opponent's pawns in front of his king, and I was able to take advantage of it and threaten his king faster than he could defend.  After I made too many mate threats, black's position fell completely.
+Black did not lose because he was down a bishop.  However, my pawns were about to remove my opponent's pawns in front of his king, and I was able to take advantage of it and threaten his king faster than he could defend.  After I made too many mate threats, black's position fell completely.
 
 When you are trying to attack, whether it's against the Sicilian, Slav, or (almost) any opening, it's critical that you utilize your pawns to weaken the opposing king's defenses.
