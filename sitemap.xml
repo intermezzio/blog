@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://intermezzio.github.io/blog/posts/material-imbalances/</loc>
+    <lastmod>2019-03-20T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://intermezzio.github.io/blog/posts/blasted-by-chungus/</loc>
     <lastmod>2019-01-13T18:00:00+00:00</lastmod>
   </url>
@@ -44,13 +49,13 @@
   
   <url>
     <loc>https://intermezzio.github.io/blog/</loc>
-    <lastmod>2019-01-13T18:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://intermezzio.github.io/blog/posts/</loc>
-    <lastmod>2019-01-13T18:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
