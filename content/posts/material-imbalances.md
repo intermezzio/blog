@@ -6,6 +6,8 @@ It's been a while since I've posted, and I have a lot of interesting games to sh
 
 I started with my typical Nimzo-Larsen Attack, and the opening was fairly normal.
 
+## 2019 US Amateur Team East: Round 2 Table 90 Board #1
+
 {{< lichess "jcbvy26d/74LLensr" 18 >}}
 
 Black has a slight advantage here, although it's about equal. Both sides have comfortable development, although my knight on b1 makes me too slow to take the c file - I will have to cede that to black.
