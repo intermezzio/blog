@@ -1,7 +1,7 @@
 baseURL = "https://intermezzio.github.io/blog/"
 languageCode = "en-us"
 title = "Chess Thoughts"
-theme = "BluestNight"
+theme = "Midnight"
 [params]
 	post_navigation = true
 	thumbnail = "intermezzio_logo.png"

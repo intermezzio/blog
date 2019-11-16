@@ -1,3 +1,7 @@
+
 [submodule "themes/BluestNight"]
 	path = themes/BluestNight
-	url = https://gitlab.com/BluestNight/BluestNight.git
+	url = https://github.com/BluestNight/BluestNight.git
+[submodule "themes/Midnight"]
+	path = themes/Midnight
+	url = https://gitlab.com/BluestNight/Midnight.git
