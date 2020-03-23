@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chess Thoughts</title>
@@ -6,9 +6,20 @@
     <description>Recent content on Chess Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2019 18:00:00 +0000</lastBuildDate>
-    <atom:link href="https://intermezzio.github.io/blog/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Feb 2020 18:00:00 +0000</lastBuildDate>
     
+	<atom:link href="https://intermezzio.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Interesting Alekhine</title>
+      <link>https://intermezzio.github.io/blog/posts/an-interesting-alekhine/</link>
+      <pubDate>Thu, 06 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://intermezzio.github.io/blog/posts/an-interesting-alekhine/</guid>
+      <description>Although I haven&amp;rsquo;t posted in a while, I&amp;rsquo;ve been playing more chess since the end of last year&amp;rsquo;s chess season. Since starting college at Olin College of Engineering, I&amp;rsquo;ve studied the Alekhine defense and practiced a few endgames. This game I&amp;rsquo;m sharing with you is from an online tournament at chess.com.
+Blue Christmas: Round 1  In the Alekhine defense, black (me, in this position) lets white control extra space in the center of the board with plans to counterattack later.</description>
+    </item>
     
     <item>
       <title>2019 State Championship Match</title>
@@ -16,10 +27,8 @@
       <pubDate>Thu, 06 Jun 2019 18:00:00 +0000</pubDate>
       
       <guid>https://intermezzio.github.io/blog/posts/2019-state-championship-match/</guid>
-      <description>On April 27, 2019, High Technology High School had a heavily outrated team at the chess state championships. Our team of 5 students had an average rating of about 1400, in comparison to the 1700 rating of the favorite team, Bergen County Academies. Although I prepared a lot with the HTHS team, reviewing games, practicing tactics, and preparing openings, the team knew it would take a miracle to defeat Bergen.</description>
+      <description>On April 27, 2019, High Technology High School had a heavily outrated team at the chess state championships. Our team of 5 students had an average rating of about 1400, in comparison to the 1700 rating of the favorite team, Bergen County Academies. Although I prepared a lot with the HTHS team, reviewing games, practicing tactics, and preparing openings, the team knew it would take a miracle to defeat Bergen. I barely ate any of my lunch that day because I was so nervous for the match, and soon realized that I would be facing Daniel, a 1900 rated player.</description>
     </item>
-    
-    
     
     <item>
       <title>Fighting Against Englishmen</title>
@@ -30,8 +39,6 @@
       <description>We all have those days when we face a less common opening, and we don&amp;rsquo;t know how to play against it. Although some may disagree, I like to choose how I play in an opening instead of following a book of theory. When I choose what moves I play, it feels more like real chess. This past weekend, I had the opportunity to play against the English Opening, an opening that I have not prepped myself against whatsoever.</description>
     </item>
     
-    
-    
     <item>
       <title>An Interesting Material Imbalance</title>
       <link>https://intermezzio.github.io/blog/posts/material-imbalances/</link>
@@ -40,8 +47,6 @@
       <guid>https://intermezzio.github.io/blog/posts/material-imbalances/</guid>
       <description>It&amp;rsquo;s been a while since I&amp;rsquo;ve posted, and I have a lot of interesting games to share. About a month ago, I competed at the US Amateur Team East tournament with some friends from my school. Shout out to my friends Aditya, Abhinav, and Justin for competing at the tournamnet with me! In the second round, I faced a 2100 (compared to my 1500 rating at the time), and the game was very intense.</description>
     </item>
-    
-    
     
     <item>
       <title>I Got Blasted by Big Chungus!</title>
@@ -53,8 +58,6 @@
 Shore Chess Division HTHS-CBA (Away): Board 2  This is my current opening for White: the Réti Opening, specifically the Nimzo-Larsen Variation.</description>
     </item>
     
-    
-    
     <item>
       <title>Pawns On The Attack!</title>
       <link>https://intermezzio.github.io/blog/posts/pawns-on-the-attack/</link>
@@ -64,8 +67,6 @@ Shore Chess Division HTHS-CBA (Away): Board 2  This is my current opening for Wh
       <description>Hello again! I&amp;rsquo;m finally back and ready with another action-packed game for you! I played the following game online, where I used a pawn break on the kingside to attack my opponent&amp;rsquo;s king.
 New York vs New Jersey Friendly, Board #5 Game 1  I played the Scotch Gambit to reach this position, although this position can arise from the Italian Game as well. White has a strong e5 pawn and knight in exchange for the bishop pair and black&amp;rsquo;s knight on e4.</description>
     </item>
-    
-    
     
     <item>
       <title>Be Stubborn!</title>
@@ -77,8 +78,6 @@ New York vs New Jersey Friendly, Board #5 Game 1  I played the Scotch Gambit to 
 US League 2019 R1: NJ-NM, Board #15 Game 1  This position is outright winning for black, and not very fun to play as white.</description>
     </item>
     
-    
-    
     <item>
       <title>Fight Where You&#39;re Winning</title>
       <link>https://intermezzio.github.io/blog/posts/fight-where-youre-winning/</link>
@@ -89,8 +88,6 @@ US League 2019 R1: NJ-NM, Board #15 Game 1  This position is outright winning fo
 CCT Passed Pawn QF R1: Board 15  The opening is a typical Caro-Kann advance variation, which tends to look more like the French defense because the c6-pawn was pushed to c5. The main difference from the French defense, though, is that the light squared bishop is not trapped behind its pawns.</description>
     </item>
     
-    
-    
     <item>
       <title>Keep Your Eye on the Goal</title>
       <link>https://intermezzio.github.io/blog/posts/eye-on-the-goal/</link>
@@ -100,8 +97,6 @@ CCT Passed Pawn QF R1: Board 15  The opening is a typical Caro-Kann advance vari
       <description>Until a few months ago, I used to have the problem of being materialistic in chess. I&amp;rsquo;d focus on gaining a pawn advantage and making that my only goal in my chess games, after which I would just try to simplify the position until I won. However, after you reach about a 1200 USCF rating, you will lose terribly if you neglect the other aspects of chess. King safety, protecting yourself.</description>
     </item>
     
-    
-    
     <item>
       <title>PennApps Chess Tournament</title>
       <link>https://intermezzio.github.io/blog/posts/pennapps-fall-2018/</link>
@@ -110,7 +105,6 @@ CCT Passed Pawn QF R1: Board 15  The opening is a typical Caro-Kann advance vari
       <guid>https://intermezzio.github.io/blog/posts/pennapps-fall-2018/</guid>
       <description>Hello, my friends! Today, I&amp;rsquo;d like to share about an interesting chess game from the PennApps hackathon with you. The chess tournament was held at the UPenn, and people from the PennApps hackathon as well as the UPenn chess club competed together in one tournament. It was a blitz tournament, with an 8|0 time control (yes, eight minutes - I&amp;rsquo;m not sure why), so the moves and ideas from the following game are from memory and not notated.</description>
     </item>
-    
     
   </channel>
 </rss>

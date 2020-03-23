@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Chess Thoughts</title>
@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Chess Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2019 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2020 18:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://intermezzio.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Interesting Alekhine</title>
+      <link>https://intermezzio.github.io/blog/posts/an-interesting-alekhine/</link>
+      <pubDate>Thu, 06 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://intermezzio.github.io/blog/posts/an-interesting-alekhine/</guid>
+      <description>Although I haven&amp;rsquo;t posted in a while, I&amp;rsquo;ve been playing more chess since the end of last year&amp;rsquo;s chess season. Since starting college at Olin College of Engineering, I&amp;rsquo;ve studied the Alekhine defense and practiced a few endgames. This game I&amp;rsquo;m sharing with you is from an online tournament at chess.com.
+Blue Christmas: Round 1  In the Alekhine defense, black (me, in this position) lets white control extra space in the center of the board with plans to counterattack later.</description>
+    </item>
     
     <item>
       <title>2019 State Championship Match</title>
@@ -17,7 +27,7 @@
       <pubDate>Thu, 06 Jun 2019 18:00:00 +0000</pubDate>
       
       <guid>https://intermezzio.github.io/blog/posts/2019-state-championship-match/</guid>
-      <description>On April 27, 2019, High Technology High School had a heavily outrated team at the chess state championships. Our team of 5 students had an average rating of about 1400, in comparison to the 1700 rating of the favorite team, Bergen County Academies. Although I prepared a lot with the HTHS team, reviewing games, practicing tactics, and preparing openings, the team knew it would take a miracle to defeat Bergen.</description>
+      <description>On April 27, 2019, High Technology High School had a heavily outrated team at the chess state championships. Our team of 5 students had an average rating of about 1400, in comparison to the 1700 rating of the favorite team, Bergen County Academies. Although I prepared a lot with the HTHS team, reviewing games, practicing tactics, and preparing openings, the team knew it would take a miracle to defeat Bergen. I barely ate any of my lunch that day because I was so nervous for the match, and soon realized that I would be facing Daniel, a 1900 rated player.</description>
     </item>
     
     <item>
