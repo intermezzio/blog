@@ -1,7 +1,7 @@
 baseURL = "https://intermezzio.github.io/blog/"
 languageCode = "en-us"
 title = "Chess Thoughts"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
 
 MetaDataFormat = "toml"
 DefaultContentLanguage = "en"
