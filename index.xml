@@ -6,10 +6,20 @@
     <description>Recent content on Chess Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Feb 2020 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 18:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://intermezzio.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Attacking the French Defense</title>
+      <link>https://intermezzio.github.io/blog/posts/french-defense-kingside-attack/</link>
+      <pubDate>Mon, 20 Apr 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://intermezzio.github.io/blog/posts/french-defense-kingside-attack/</guid>
+      <description>Recently, I finished an interesting game as part of the USTCL chess league. This league is an online chess.com league for US states and Canadian territories that play each other throughout the year.
+2020 USTCL, D1, R9: New Jersey vs. Pennsylvania - Board 16  This French defense, the normal variation of the French, is a bit different because black plays 2 .. b6 instead of d5. The light squared bishop fianchettoes on the diagonal and the bishop (in addition to a knight on f6) puts extra pressure on the e4 pawn.</description>
+    </item>
     
     <item>
       <title>An Interesting Alekhine</title>
