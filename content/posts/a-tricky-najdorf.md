@@ -1,7 +1,6 @@
 ---
 title: "A Tricky Najdorf"
-date: 2019-05-04T18:00:00-00:00
-draft: false
+date: 2020-05-04T18:00:00-00:00
 disqus_identifier: "an-interesting-alekhine"
 
 ---
