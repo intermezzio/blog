@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Chess Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 18:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://intermezzio.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Tricky Najdorf</title>
+      <link>https://intermezzio.github.io/blog/posts/a-tricky-najdorf/</link>
+      <pubDate>Mon, 04 May 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://intermezzio.github.io/blog/posts/a-tricky-najdorf/</guid>
+      <description>Although I have played against the Sicilian defense (1. e4 c5) a lot, I have mostly played against the Sicilian Dragon with the Yugoslav attack. This is a very sharp line of the Sicilian that a lot of people played in my high school chess league, so I learned it quickly after starting high school. The Najdorf Sicilian is different, and I am not very experienced against that variation. For a while, I used to play 1.</description>
+    </item>
     
     <item>
       <title>Attacking the French Defense</title>
@@ -38,15 +47,6 @@ Blue Christmas: Round 1  In the Alekhine defense, black (me, in this position) l
       
       <guid>https://intermezzio.github.io/blog/posts/2019-state-championship-match/</guid>
       <description>On April 27, 2019, High Technology High School had a heavily outrated team at the chess state championships. Our team of 5 students had an average rating of about 1400, in comparison to the 1700 rating of the favorite team, Bergen County Academies. Although I prepared a lot with the HTHS team, reviewing games, practicing tactics, and preparing openings, the team knew it would take a miracle to defeat Bergen. I barely ate any of my lunch that day because I was so nervous for the match, and soon realized that I would be facing Daniel, a 1900 rated player.</description>
-    </item>
-    
-    <item>
-      <title>A Tricky Najdorf</title>
-      <link>https://intermezzio.github.io/blog/posts/a-tricky-najdorf/</link>
-      <pubDate>Sat, 04 May 2019 18:00:00 +0000</pubDate>
-      
-      <guid>https://intermezzio.github.io/blog/posts/a-tricky-najdorf/</guid>
-      <description>Although I have played against the Sicilian defense (1. e4 c5) a lot, I have mostly played against the Sicilian Dragon with the Yugoslav attack. This is a very sharp line of the Sicilian that a lot of people played in my high school chess league, so I learned it quickly after starting high school. The Najdorf Sicilian is different, and I am not very experienced against that variation. For a while, I used to play 1.</description>
     </item>
     
     <item>
